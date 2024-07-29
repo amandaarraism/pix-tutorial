@@ -8,7 +8,7 @@ O Pix é o um meio de pagamento instantâneo desenvolvido pelo Banco Central. Co
 
 ### Como configurar a minha chave PIX?
 
-Para configurar a sua chave pix e realizar transferências, você precisa ter o app do *MinhaEmpresa* baixado. Caso ainda não tenha, clique aqui para baixar. 
+> :bulb: Para configurar a sua chave pix e realizar transferências, você precisa ter o app do *MinhaEmpresa* baixado. Caso ainda não tenha, clique aqui para baixar. 
 
 Com o aplicativo baixado, siga o passo-a-passo abaixo para configurar a sua chave pix:
 
