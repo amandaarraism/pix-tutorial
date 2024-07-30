@@ -6,7 +6,20 @@ Neste artigo, você aprende o que é uma chave pix e como configurá-la.
 
 O Pix é o um meio de pagamento instantâneo desenvolvido pelo Banco Central. Com ele, você pode realizar transferências com apenas um dado do recebedor como, por exemplo, telefone, CPF, CNPJ, e-mail, chave aleatória ou mesmo escaneando um QR Code.
 
-### Como configurar a minha chave PIX?
+### Por que usar PIX?
+
+Aqui estão algumas das principais vantagens de usar o PIX em comparação com outros métodos de pagamento:
+
+- **Velocidade de disponibilização**: Os recursos são creditados na conta do recebedor em até 10 segundos em 99% das transações.
+  
+- **Custo baixo**: O Pix reduz significativamente os custos de transação, beneficiando especialmente pequenos negócios.
+  
+- **Disponibilidade**: As transações via Pix estão disponíveis 24 horas por dia, todos os dias do ano, incluindo sábados, domingos e feriados.
+  
+- **Versatilidade**: O Pix é adequado para todos os tipos de pagamentos e transferências no Brasil, incluindo entre pessoas, empresas, quitação de faturas e pagamentos ao governo.
+
+
+## Como configurar a minha chave PIX?
 
 > :bulb: Para configurar a sua chave pix e realizar transferências, você precisa ter o app do *MinhaEmpresa* baixado. Caso ainda não tenha, clique aqui para baixar. 
 
