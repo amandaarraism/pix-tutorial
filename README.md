@@ -12,7 +12,7 @@ Aqui estão algumas das principais vantagens de usar o Pix em comparação com o
 
 - **Velocidade de disponibilização**: Os recursos são creditados na conta do recebedor em até 10 segundos em 99% das transações.
   
-- **Custo baixo**: O Pix reduz significativamente os custos de transação, beneficiando especialmente pequenos negócios. As transações realizadas por pessoas físicas no Pix são gratuitas e não têm nenhuma cobrança.
+- **Custo baixo**: O Pix reduz significativamente os custos de transação, beneficiando especialmente pequenos negócios. As transações realizadas por pessoas físicas no Pix são gratuitas.
 
 - **Segurança**: O Pix adota as mesmas medidas de proteção das operações via TED e DOC. Além disso, as informações pessoais dos usuários são resguardadas pelo sigilo bancário e pela Lei Geral de Proteção de Dados (LGPD).
   
@@ -23,18 +23,18 @@ Aqui estão algumas das principais vantagens de usar o Pix em comparação com o
 
 ## Como configuro uma chave Pix?
 
-> :bulb: Para configurar uma chave Pix e realizar transferências, é necessário ter o app *Nome da Empresa* instalado. Se ainda não o tem, [clique aqui para baixá-lo](#).
+> :bulb: É necessário ter o app *Nome da Empresa* instalado para configurar uma chave Pix e realizar transferências. Se ainda não o tem, [clique aqui para baixá-lo](#).
  
 Com o aplicativo baixado, siga o passo-a-passo abaixo para configurar uma chave Pix:
 
-1. Acesse o app e faça o login com sua conta e senha. *Inserir uma captura de tela para orientar o leitor e adicionar alt text para acessibilidade*
-2. Acesse o menu Pix. *Inserir uma captura de tela para orientar o leitor e adicionar alt text para acessibilidade*
-3. Defina sua chave como, por exemplo, um e-mail, celular ou CPF. *Inserir uma captura de tela para orientar o leitor e adicionar alt text para acessibilidade*
-4. Confirme a chave informada. *Inserir uma captura de tela para orientar o leitor e adicionar alt text para acessibilidade*
+1. Acesse o app e faça o login com sua conta e senha.<br/> *Inserir uma captura de tela para orientar o leitor e adicionar alt text para acessibilidade.*
+2. Acesse o menu Pix.<br/> *Inserir uma captura de tela para orientar o leitor e adicionar alt text para acessibilidade.*
+3. Defina sua chave como, por exemplo, um e-mail, celular ou CPF.<br/> *Inserir uma captura de tela para orientar o leitor e adicionar alt text para acessibilidade.*
+4. Confirme a chave informada.<br/> *Inserir uma captura de tela para orientar o leitor e adicionar alt text para acessibilidade.*
 
 Pronto! O passo-a-passo chegou ao fim e sua chave Pix foi cadastrada com sucesso.
 
-> :bulb: Com uma chave Pix cadastrada, você pode realizar transferências. [Clique aqui](#) para aprender como fazer transferências com o Pix.
+> :bulb: Com uma chave Pix cadastrada, você pode realizar transferências. [Clique aqui](#) para aprender como realizar transferências com o Pix.
  
 
 
