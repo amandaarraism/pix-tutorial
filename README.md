@@ -1,4 +1,4 @@
-# Como configuro uma chave Pix? 
+# Modelo de como configurar uma chave Pix na *Nome da Empresa*
 
 Neste artigo, você aprende o que é o Pix, quais são as vantagens deste método de pagamento e como configurar uma chave Pix para realizar transferências. 
 
@@ -23,7 +23,7 @@ Aqui estão algumas das principais vantagens de usar o Pix em comparação com o
 
 ## Como configuro uma chave Pix?
 
-> :bulb: Para configurar uma chave Pix e realizar transferências, é necessário ter o app *MinhaEmpresa* instalado. Se ainda não o tem, [clique aqui para baixá-lo](#).
+> :bulb: Para configurar uma chave Pix e realizar transferências, é necessário ter o app *Nome da Empresa* instalado. Se ainda não o tem, [clique aqui para baixá-lo](#).
  
 Com o aplicativo baixado, siga o passo-a-passo abaixo para configurar uma chave Pix:
 
