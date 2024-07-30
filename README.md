@@ -1,4 +1,4 @@
-# Como fazer transferências com PIX? 
+# Como configurar uma chave PIX? 
 
 Neste artigo, você aprende o que é uma chave pix e como configurá-la.
 
