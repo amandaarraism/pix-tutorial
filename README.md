@@ -1,4 +1,4 @@
-# Modelo de como configurar uma chave Pix na *Nome da Empresa*
+# Modelo de tutorial para configurar uma chave Pix no *Nome da Empresa*
 
 Neste artigo, você aprende o que é o Pix, quais são as vantagens deste método de pagamento e como configurar uma chave Pix para realizar transferências. 
 
