@@ -1,6 +1,6 @@
 # Como configurar uma chave PIX? 
 
-Neste artigo, você aprende o que é uma chave pix e como configurá-la.
+Neste artigo, você aprende o que é o PIX, quais são as vantagens desse método de pagamento e como configurar uma chave PIX para realizar transferências. 
 
 ## O que é PIX?
 
