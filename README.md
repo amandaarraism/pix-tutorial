@@ -27,10 +27,10 @@ Aqui estão algumas das principais vantagens de usar o Pix em comparação com o
  
 Com o aplicativo baixado, siga o passo-a-passo abaixo para configurar uma chave Pix:
 
-1. Acesse o app e faça o login com sua conta e senha. Inserir uma captura de tela para orientar o leitor
-2. Acesse o menu Pix. *Inserir uma captura de tela para orientar o leitor*
-3. Defina sua chave como, por exemplo, um e-mail, celular ou CPF. *Inserir uma captura de tela para orientar o leitor*
-4. Confirme a chave informada. *Inserir uma captura de tela para orientar o leitor*
+1. Acesse o app e faça o login com sua conta e senha. *Inserir uma captura de tela para orientar o leitor e adicionar alt text para acessibilidade*
+2. Acesse o menu Pix. *Inserir uma captura de tela para orientar o leitor e adicionar alt text para acessibilidade*
+3. Defina sua chave como, por exemplo, um e-mail, celular ou CPF. *Inserir uma captura de tela para orientar o leitor e adicionar alt text para acessibilidade*
+4. Confirme a chave informada. *Inserir uma captura de tela para orientar o leitor e adicionar alt text para acessibilidade*
 
 Pronto! O passo-a-passo chegou ao fim e sua chave Pix foi cadastrada com sucesso.
 
