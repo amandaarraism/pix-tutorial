@@ -21,8 +21,8 @@ Aqui estão algumas das principais vantagens de usar o PIX em comparação com o
 
 ## Como configurar a minha chave PIX?
 
-> :bulb: Para configurar a sua chave pix e realizar transferências, você precisa ter o app do *MinhaEmpresa* baixado. Caso ainda não tenha, clique aqui para baixar. 
-
+> :bulb: Para configurar sua chave Pix e realizar transferências, é necessário ter o app *MinhaEmpresa* instalado. Se ainda não o tem, [clique aqui para baixá-lo](#).
+ 
 Com o aplicativo baixado, siga o passo-a-passo abaixo para configurar a sua chave pix:
 
 1. Acesse o app e faça o login com sua conta e senha </li>
