@@ -4,7 +4,7 @@ Neste artigo, você aprende o que é o PIX, quais são as vantagens desse métod
 
 ## O que é PIX?
 
-O Pix é o um meio de pagamento instantâneo desenvolvido pelo Banco Central. Com ele, você pode realizar transferências com apenas um dado do recebedor como, por exemplo, telefone, CPF, CNPJ, e-mail, chave aleatória ou mesmo escaneando um QR Code.
+O PIX é o um meio de pagamento instantâneo desenvolvido pelo Banco Central. Com ele, você pode realizar transferências com apenas um dado do recebedor como, por exemplo, telefone, CPF, CNPJ, e-mail, chave aleatória ou mesmo escaneando um QR Code.
 
 ### Por que usar PIX?
 
